@@ -46,13 +46,15 @@ SiPMs (silicon photomultipliers) typically consist of several thousand to tens o
 
 # 实测 Tests
 
-![SDS1204X_HD_PNG_2](datasheet _chn.assets/SDS1204X_HD_PNG_2-1782899229728.png)
+<img width="1024" height="600" alt="SDS1204X_HD_PNG_2" src="https://github.com/user-attachments/assets/3a273c67-e704-4c3c-b1df-f8cc70676f65" />
+
 
 图1 输出电压纹波（Vout=25V AC耦合 带宽限制20MHz 空负载）
 
 figure1 output ripple（Vout=25V AC-coupled Bandwith 20MHz No load）
 
-![温漂](datasheet _chn.assets/温漂.png)
+<img width="617" height="477" alt="温漂" src="https://github.com/user-attachments/assets/b922951c-ffe9-4482-95f9-713580eb1181" />
+
 
 图2 输出电压温漂（T=-35~65℃ Vout=42v）
 
