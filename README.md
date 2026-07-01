@@ -6,7 +6,7 @@ SPU-01-S是专用于SiPM等光电器件的单通道供电单元，其具有2ppm/
 
 The SPU-01-S is a single-channel power supply unit specifically designed for photon-sensor devices such as SiPMs. It features an extremely low output temperature drift of 2 ppm/°C, high precision of 2 mV, and a compact size of 8 cm², along with current and voltage monitoring functions. The module includes a 1-wire interface that allows direct adjustment of the output voltage based on front-end detector feedback. Users can also measure the front-end temperature independently and configure settings via a UART interface.
 
-![Uploading 尺寸.png…]()
+<img width="867" height="474" alt="尺寸" src="https://github.com/user-attachments/assets/60f5bbe9-386c-4146-9b85-1280eec92fda" />
 
 
 # SiPM（硅光电倍增管）是什么？What is SiPM？
