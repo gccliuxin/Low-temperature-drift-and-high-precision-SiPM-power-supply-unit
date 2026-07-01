@@ -25,7 +25,7 @@ A silicon photomultiplier (SiPM) is a semiconductor device that can detect light
 
 SiPM（硅光电倍增管）通常由几千上万个工作于盖革模式的雪崩光电二极管组成。工作于盖革模式时，需要提供一般为几十V的偏置电压使其超过雪崩电压，其增益与过电压（偏置电压 - 雪崩电压）相关，而其雪崩电压与温度有线性的关系。所以要保证SiPM增益的稳定性，准确温度测量、电压输出精度和反馈调整是必要的。
 
-SiPMs (silicon photomultipliers) typically consist of several thousand to tens of thousands of avalanche photodiodes （SPAD）operating in Geiger mode. When operating in Geiger mode, a bias voltage—usually several dozen volts—is required to exceed the breakdown voltage. The gain is related to the overvoltage (bias voltage minus breakdown voltage), and the breakdown voltage has a linear relationship with temperature. Therefore, to ensure SiPM gain stability, accurate temperature measurement, precise voltage output, and feedback adjustment are essential.
+SiPMs (silicon photomultipliers) typically consist of several thousand to tens of thousands of avalanche photodiodes （SPADs）operating in Geiger mode. When operating in Geiger mode, a bias voltage—usually several dozen volts—is required to exceed the breakdown voltage. The gain is related to the overvoltage (bias voltage minus breakdown voltage), and the breakdown voltage has a linear relationship with temperature. Therefore, to ensure SiPM gain stability, accurate temperature measurement, precise voltage output, and feedback adjustment are essential.
 
 # 性能参数 Parameters
 
@@ -74,12 +74,12 @@ figure2 temperature drift（T=-35~65℃ Vout=42v）
 
 作者：刘欣  aptx4689lx@gmail.com
 
-2015-至今	成都永新医疗设备股份有限公司 核辐射监测事业部 副首席科学家
-2016-2019	清华大学	核能与核技术工程
+2015-至今	成都永新医疗设备股份有限公司 核辐射监测事业部 副首席科学家  
+2016-2019	清华大学	核能与核技术工程    
 2006-2011	大连理工大学 电子工程系
 
-Author：Xin Liu aptx4689lx@gmail.com
-2015-now    Chengdu Novelmedical Co.ltd - Chief Scientist
-2016-2019   Tsinghua University - Nuclear Science and Technology
+Author：Xin Liu aptx4689lx@gmail.com     
+2015-now    Chengdu Novelmedical Co.ltd - Chief Scientist     
+2016-2019   Tsinghua University - Nuclear Science and Technology     
 2006-2011	Dalian University of Technology - Electronic and Engineering
 
