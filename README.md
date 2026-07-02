@@ -72,7 +72,7 @@ figure2 temperature drift（T=-35~65℃ Vout=42v）
 
 # 关于 About
 
-作者：刘欣  aptx4689lx@gmail.com
+作者：刘欣  gccliuxin@163.com
 
 2015-至今	成都永新医疗设备股份有限公司 核辐射监测事业部 副首席科学家  
 2016-2019	清华大学	核能与核技术工程    
